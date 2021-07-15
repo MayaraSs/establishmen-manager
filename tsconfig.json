@@ -19,7 +19,6 @@
     "isolatedModules": true,
     "jsx": "react-jsx",
     "declaration": true,
-    "outDir": "dist",
     "baseUrl": "./",
     "noFallthroughCasesInSwitch": true,
     "noEmit": true

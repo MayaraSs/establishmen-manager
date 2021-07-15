@@ -1,14 +1,15 @@
-import React from "react";
-import { BrowserRouter, Route,  } from "react-router-dom";
-import Login from "../pages/login";
+import React from 'react'
 
+import { BrowserRouter, Route } from 'react-router-dom'
 
-const SignRoutes: React.FC  = () => {
+import Login from '../pages/login'
+
+const SignRoutes: React.FC = () => {
   return (
-  <BrowserRouter>
+    <BrowserRouter>
       <Route path="/" component={Login} />
-  </BrowserRouter>
+    </BrowserRouter>
   )
-};
+}
 
-export default SignRoutes;
+export default SignRoutes

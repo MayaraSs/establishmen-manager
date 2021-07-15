@@ -13,7 +13,7 @@ Abrir [http://localhost:3000](http://localhost:3000) para visualizar no browser.
 Sistema de geerenciamento de estabelecimento simples
 
  <p float="left">
-    <img src="./images/image.gif" title="3D Viewer" width="600"/>
+    <img src="./images/image.gif" width="600"/>
   </p>
 
 Abrir [https://www.figma.com/file/EY2QgOxAEQBPQr54CUnIqc/Desafio-Vai-bem?node-id=1%3A53] (Figma) para visualizar o esboço do desenho 

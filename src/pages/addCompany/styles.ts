@@ -22,6 +22,7 @@ export const Frame = styled.div`
   height: 60px;
   display: flex;
   margin-left: 22px;
+  margin-bottom: 12px;
   justify-content: space-between;
 `
 

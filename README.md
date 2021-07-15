@@ -5,16 +5,11 @@
   yarn
   yarn start
 
-Abrir [http://localhost:3000](http://localhost:3000) para visualizar no browser.
-
 ```
 
 ## O que foi desenvolvido? 
 Sistema de geerenciamento de estabelecimento simples
-
- <p float="left">
-    <img src="./images/image.gif" width="600"/>
-  </p>
+![](./src/images/image.gif)
 
 
 Abrir [Figma](https://www.figma.com/file/EY2QgOxAEQBPQr54CUnIqc/Desafio-Vai-bem?node-id=1%3A53) para visualizar o esboço do desenho 

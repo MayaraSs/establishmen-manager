@@ -1,10 +1,13 @@
 import React from 'react';
 
-import ManageEmployees from './pages/manageEmployees';
+import Routes from "./routes/routes";
+import { AuthProvider } from './contexts/auth';
 
 function App() {
-  return (
-   <ManageEmployees/>
+  return(
+      <AuthProvider>
+        <Routes/>
+      </AuthProvider>
   );
 }
 

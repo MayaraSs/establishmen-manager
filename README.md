@@ -11,8 +11,7 @@ Abrir [http://localhost:3000](http://localhost:3000) para visualizar no browser.
 
 ## O que foi desenvolvido? 
 Sistema de geerenciamento de estabelecimento simples
-
-![til](./images/image.gif)
+(./images/image.gif)
 
 Abrir [https://www.figma.com/file/EY2QgOxAEQBPQr54CUnIqc/Desafio-Vai-bem?node-id=1%3A53] (Figma) para visualizar o esboço do desenho 
 

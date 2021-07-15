@@ -16,7 +16,8 @@ Sistema de geerenciamento de estabelecimento simples
     <img src="./images/image.gif" width="600"/>
   </p>
 
-Abrir [https://www.figma.com/file/EY2QgOxAEQBPQr54CUnIqc/Desafio-Vai-bem?node-id=1%3A53] (Figma) para visualizar o esboço do desenho 
+
+Abrir [Figma](https://www.figma.com/file/EY2QgOxAEQBPQr54CUnIqc/Desafio-Vai-bem?node-id=1%3A53) para visualizar o esboço do desenho 
 
 - Primeiros passos:
   1. Tela de login (email e senha)

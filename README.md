@@ -20,6 +20,8 @@ Abrir [Figma](https://www.figma.com/file/EY2QgOxAEQBPQr54CUnIqc/Desafio-Vai-bem?
   3. Tela para gerenciar estabelecimento
   4. Cadastro usuário (nome, email e senha) 
 
+- Utilizei ReactJS porque é o framework que tenho afinidade e context api porque estou aprendendo sobre e decidi aplicar.
+
 1 - Login (email e senha)
   limitação: 
     1. Sem autenticação
